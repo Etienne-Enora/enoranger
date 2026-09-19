@@ -1,0 +1,10 @@
+Copyright (c) 2026 Etienne Valette - etienne.valette@protonmail.com
+Tous droits réservés.
+
+Le code, les styles, les pictogrammes, les textes et les autres fichiers de ce dépôt
+sont la propriété exclusive de l'auteur. Aucune licence n'est accordée : toute reproduction,
+modification, distribution ou réutilisation, totale ou partielle, est interdite sans
+autorisation écrite préalable de l'auteur.
+
+Exception : vendor/zxing-0.23.0.min.js est la bibliothèque @zxing/library 0.23.0,
+distribuée sous licence Apache 2.0, dont le texte figure dans vendor/zxing-LICENSE.txt.
